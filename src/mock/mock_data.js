@@ -244,8 +244,7 @@ export const mockData = {
       "icon": "📚",
       "order": 6,
       "sites": [
-              {
-                      }
+
             ]
     },
     {
